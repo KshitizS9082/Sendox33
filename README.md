@@ -9,12 +9,11 @@ At  the first instance of creating an account a pair of  public key ,private key
 Above mentioned public and private key are created and saved until a person deletes the existing account in his phone itself.
 
 
-—>To install the app download the apk file and click on it and accept the permissions.Now you can create an account and text securely with people with known usernames.(prerfarably use the guest secured wifi )
+—>To install the app download the apk file and click on it and accept the permissions.Now you can create an account and text securely with people with known usernames.
 
   The available functionalities are  my inbox with page index view, compose message, view contacts, edit status, delete account all of this with security!.
 
 
-The challenges we faced during the development of this project are sensitivity of networking and many bugs in android studio.
 
 
 
